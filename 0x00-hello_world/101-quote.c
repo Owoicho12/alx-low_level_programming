@@ -2,7 +2,7 @@
 #include <unistid.h>
 /**
  * main - Entry
- * Return: 1
+ * Return: Always 1
  */
 int main(void)
 {
