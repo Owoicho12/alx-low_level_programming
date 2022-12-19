@@ -7,7 +7,7 @@
  * @str: provided string
  *
  * Return: Always 0 (Success)
- `*/
+ */
 
 void puts_half(char *str)
 {
